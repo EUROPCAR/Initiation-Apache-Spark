@@ -4,7 +4,7 @@ Apache Spark se présente comme la nouvelle génération de moteur de calcul dis
 
 L'objet de ce Hands-on Labs est de vous familiariser par la pratique au traitement massif et distribué dans le domaine du data crunching et du machine learning. A l'issue de cette session, vous serez familiers avec :
 
-- Les Resilient Data Sets (RDD) qui désignent l’abstraction essentielle pour la manipulation distribuée des données.
+- Les Residents Data Sets (RDD) qui désignent l’abstraction essentielle pour la manipulation distribuée des données.
 
 - les patterns de transformations et d'actions offerts par l'API
 
